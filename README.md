@@ -1,9 +1,10 @@
  # Deep Learning Study Projects
 
  ## Please note:
- The projects's links lift you to my old repository. New updates are coming soon with new links, texts and projects. Thank you.
+ > The projects's links lift you to my old repository. **New updates are coming soon** with new links, texts and projects. 
+ Thank you! 
  
- 
+ ---
  
  
  Hi! Welcome to my repository!
