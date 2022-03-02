@@ -23,7 +23,7 @@
  Please, feel free to consult all the material. I hope I can help the community in some way!
 
 
-## Data Science
+## Projects
  ### Python
 - [SVM](https://github.com/Joao-Salero/Data-Science-Projects/tree/master/SVM)
 - [Prophet](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/tree/master/Prophet)
