@@ -20,7 +20,7 @@
 
  All the “mini-projects” I will review over time and I'll updating them as I learn more techniques.
 
- Please, feel free to consult all the material. I hope I can help the community in some way!
+ Please, **feel free** to consult all the material. I hope I can help the community in some way!
 
 
 ## Projects
