@@ -7,7 +7,7 @@
  ---
  
  
- Hi! Welcome to my repository!
+ Hi! Welcome to my Machine Learning repository!
  
  I'm [João Salero](https://www.linkedin.com/in/jo%C3%A3o-s-37aa011a8/), Brazilian (living in Bergamo/Italy), 34-years-old.
 
