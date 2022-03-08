@@ -1,4 +1,4 @@
- # Deep Learning Study Projects
+ # Machine Learning Study Projects
 
  ## Please note:
  > The projects's links will show you my old repository. **New updates are coming soon** with new links, texts and projects. 
