@@ -27,6 +27,7 @@
  ### Python
 - [SVM](https://github.com/Joao-Salero/Data-Science-Projects/tree/master/SVM)
 - [Monte Carlo](https://github.com/Joao-Salero/Data-Science-Projects/tree/master/MonteCarlo)
+- [Marketing_Analytics](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/tree/master/Marketing_Analytics-AB_Test)
 
  ### R
 Coming soon!
