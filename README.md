@@ -12,7 +12,7 @@
  I'm [João Salero](https://www.linkedin.com/in/jo%C3%A3o-s-37aa011a8/), Brazilian (living in Bergamo/Italy), 34-years-old.
 
  I'm starting a new phase of studies at MIT's [MicroMasters® Program in Statistics and Data Science](https://www.edx.org/micromasters/mitx-statistics-and-data-science). I have the
- [Data Scientist Training](https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados) and the [Artificial Intelligence Training](https://www.datascienceacademy.com.br/bundle/formacao-inteligencia-artificial).
+ [Data Scientist Training](https://www.datascienceacademy.com.br/bundle/formacao-cientista-de-dados) and the [Artificial Intelligence Training](https://www.datascienceacademy.com.br/bundle/formacao-inteligencia-artificial) from [Data Science Academy](https://www.datascienceacademy.com.br/).
 
  I intend to add to the [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) and [AI](https://en.wikipedia.org/wiki/Artificial_intelligence) community and, in addition, demonstrating my level of knowledge and evolution in Machine Learning. 
 
