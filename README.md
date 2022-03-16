@@ -30,7 +30,7 @@
 - [Marketing_Analytics](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/tree/master/Marketing_Analytics-AB_Test)
 
  ### R
-Coming soon!
+-[Analysis of Return on Investment](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/tree/master/ROI_R)
 
 ---
 My [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-s-37aa011a8/).
