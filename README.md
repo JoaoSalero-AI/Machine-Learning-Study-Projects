@@ -32,6 +32,7 @@
 
  ### R
 - [Analysis of Return on Investment](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/tree/master/ROI_R)
+- [XGBoost](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/tree/master/XGBoost)
 
 ---
 My [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-s-37aa011a8/).
