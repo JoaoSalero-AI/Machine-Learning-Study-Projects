@@ -1,4 +1,4 @@
-# Interative Dasboard for Call-center Support Analysis - Data Analysis
+# Interative Dasboard for Call Center Support Analysis - Data Analysis
 
 ## To run the Dashboard:
     1- Install [Anaconda Pyhton](https://www.anaconda.com/download/); 
