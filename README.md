@@ -30,6 +30,7 @@
 - [Marketing_Analytics](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/tree/master/Marketing_Analytics-AB_Test)
 - [Flight Optimizer](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/tree/master/Flight_Optimazer)
 - [App Dashboard](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/tree/master/App_Dashboard)
+- [Classifier with Naive Bayes]() 
 
  ### R
 - [Analysis of Return on Investment](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/tree/master/ROI_R)
