@@ -37,4 +37,4 @@ Netflix provided a lot of anonymized rating data and a prediction accuracy bar t
         https://www.gdgsoft.com/gsplit/download
         http://www.kcsoftwares.com/?kfk
 --- </n>
-## Part 2 Soon to be released
+## Part 2 Soon
