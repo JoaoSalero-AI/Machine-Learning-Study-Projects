@@ -31,6 +31,7 @@
 - [Flight Optimizer](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/tree/master/Flight_Optimazer)
 - [App Dashboard](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/tree/master/App_Dashboard)
 - [Classifier with Naive Bayes](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/tree/master/Classifier_with_Naive_Naive_Bayes) 
+- [Netflix's Recomendation System](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/tree/master/Netflix_Movie_Recommender_System)
 
  ### R
 - [Analysis of Return on Investment](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/tree/master/ROI_R)
