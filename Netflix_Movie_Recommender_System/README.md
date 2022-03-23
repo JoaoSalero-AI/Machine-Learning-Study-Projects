@@ -37,4 +37,18 @@ Netflix provided a lot of anonymized rating data and a prediction accuracy bar t
         https://www.gdgsoft.com/gsplit/download
         http://www.kcsoftwares.com/?kfk
 --- </n>
-## Part 2 Soon
+# Part 2 
+
+It's a Project bonus: Here we build a Machine Learning model for the recommendation system in order to predict the rating that the user will give a movie. The Machine Learning model will be created with the [XGBoost algorithm](https://en.wikipedia.org/wiki/XGBoost).
+
+---
+
+### - Data Preparation
+
+Was used samples of the data, otherwise Jupyter Notebook will take many hours to run.
+
+---
+
+Note #1: Run this Jupyter Notebook after running Part 1.
+
+Note #2: Read all comments, include the print() function when you want to understand the output of an operation.
