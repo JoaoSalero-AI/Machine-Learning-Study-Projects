@@ -31,7 +31,7 @@
 - [Flight Optimizer](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/tree/master/Flight_Optimazer)
 - [App Dashboard](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/tree/master/App_Dashboard)
 - [Classifier with Naive Bayes](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/tree/master/Classifier_with_Naive_Naive_Bayes) 
-- [Netflix's Recomendation System](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/tree/master/Netflix_Movie_Recommender_System) - [Part 1](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/blob/master/Netflix_Movie_Recommender_System/Netflix_Pred_Part1.ipynb) - [Part 2](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/blob/master/Netflix_Movie_Recommender_System/Netflix_Pred_Part2.ipynb)
+- [Netflix's Recomendation System](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/tree/master/Netflix_Movie_Recommender_System) or [Part 1](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/blob/master/Netflix_Movie_Recommender_System/Netflix_Pred_Part1.ipynb) & [Part 2](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/blob/master/Netflix_Movie_Recommender_System/Netflix_Pred_Part2.ipynb)
 
  ### R
 - [Analysis of Return on Investment](https://github.com/JoaoSalero-AI/Machine-Learning-Study-Projects/tree/master/ROI_R)
